@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Contenty-Type" content="text/html; charset=utf-8">
+	<title>DOCUMENTO</title>
+	
+	<style>
+	
+	#principal{
+		width:854px;
+		background-color:#FFA07A;
+		text-align:center;
+		margin:25px auto;
+		padding:25px;
+		border:2x solid ##F7DC6F;
+		border-radius:10px;
+		box-shadow:5px 5px;
+	    text-shadow:1px 1px;}
+	    
+	    @font-face{
+			font-family:'mierdez';
+			src:url{'mcdonalds.otf'};
+		}
+	#título{
+		font:bold 36px 'mierdez';text-shadow:1px 1px 1px;}
+		
+	#recristo{
+		margin-left:200px;
+		float:left;
+		height:1020px;
+		display:inline;
+		height:1020px;
+		background-color:#cdc090;}
+	</style>
+</head>
+
+
+<body>
+	<header id="principal">
+	<span id="titulo"><mark>MIRE USTED</mark></span>
+	</header>
+	
+	<aside id="recristo">COLUMNA
+	</aside>
+	
+
+</body>
+
+
+</html>
